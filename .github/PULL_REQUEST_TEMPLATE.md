@@ -2,7 +2,7 @@
 
 ## Issue
 
-https://github.com/Otis0620/AlgorithmsJS/pull/issues/{issue-number}
+https://github.com/Otis0620/AlgorithmsJS/issues/{issue-number}
 
 ## Description
 
